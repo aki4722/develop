@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameMgr.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Token.cs" Line="170" Column="1" />
+      <File FileName="Assets\Scripts\Util.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemy.cs" Line="6" Column="2" />
+      <File FileName="Assets\Scripts\Particle.cs" Line="40" Column="2" />
+      <File FileName="Assets\Scripts\GameMgr.cs" Line="30" Column="5" />
+      <File FileName="Assets\Scripts\TitleMgr.cs" Line="30" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="Assets\Scripts\Token.cs" line="168" offsetX="347" offsetY="2672" expression="v" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
